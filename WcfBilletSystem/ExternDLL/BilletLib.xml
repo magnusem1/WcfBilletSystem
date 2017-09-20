@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLib</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLib.Bil.Pris">
+            <summary>
+            Returnerer prisen for Pris over bro
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.Bil.Typekøretøj">
+            <summary>
+            Hvis true = øresund
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.Bil.BrobizzRabat">
+            <summary>
+            Rabat hvis man har brobizz. Ydeligere rabat hvis det er weekend
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.Køretøj.NummerpladeLænge">
+            <summary>
+            Tjekker om nummerpladen er gyldig (Max 7 tegn)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.Køretøj.BrobizzRabat">
+            <summary>
+            Returnerer brobizz rabat
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.MC.Pris">
+            <summary>
+            Returnerer pris
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.MC.Typekøretøj">
+            <summary>
+            Hvis true = øresund
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLib.MC.ØreesundBrobizz">
+            <summary>
+            Returnerer øresundsbrobizz pris
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
