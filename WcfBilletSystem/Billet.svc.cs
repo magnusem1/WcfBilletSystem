@@ -45,6 +45,7 @@ namespace WcfBilletSystem
         }
 
 
+
         public int BilPrisMedRabat()
         {
             return bil.BrobizzRabat();

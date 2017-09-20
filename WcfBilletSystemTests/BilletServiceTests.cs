@@ -44,6 +44,7 @@ namespace WcfBilletSystem.Tests
             Assert.AreEqual(230, int1);
         }
 
+
         [TestMethod()]
         public void MCPrisMedRabatTest()
         {
